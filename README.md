@@ -1,0 +1,1 @@
+This is reproducible repo for possible bug in webpack-cli@4.2.0
